@@ -1,8 +1,110 @@
 [
     {
         "id": 1,
-        "name": "Cat",
-        "image": "https://res.cloudinary.com/dbv9csgia/image/upload/v1741751154/download_k03aqi.jpg"
+        "name": "Cat"
+    },
+    {
+        "id": 2,
+        "name": "Dog"
+    },
+    {
+        "id": 3,
+        "name": "Bird"
+    },
+    {
+        "id": 4,
+        "name": "Fish"
+    },
+    {
+        "id": 5,
+        "name": "Rabbit"
+    },
+    {
+        "id": 6,
+        "name": "Turtle"
+    },
+    {
+        "id": 7,
+        "name": "Hamster"
+    },
+    {
+        "id": 8,
+        "name": "Guinea Pig"
+    },
+    {
+        "id": 9,
+        "name": "Ferret"
+    },
+    {
+        "id": 10,
+        "name": "Horse"
+    },
+    {
+        "id": 11,
+        "name": "Pig"
+    },
+    {
+        "id": 12,
+        "name": "Goat"
+    },
+    {
+        "id": 13,
+        "name": "Chicken"
+    },
+    {
+        "id": 14,
+        "name": "Duck"
+    },
+    {
+        "id": 15,
+        "name": "Goose"
+    },
+    {
+        "id": 16,
+        "name": "Sheep"
+    },
+    {
+        "id": 17,
+        "name": "Cow"
+    },
+    {
+        "id": 18,
+        "name": "Donkey"
+    },
+    {
+        "id": 19,
+        "name": "Llama"
+    },
+    {
+        "id": 20,
+        "name": "Alpaca"
+    },
+    {
+        "id": 21,
+        "name": "Rat"
+    },
+    {
+        "id": 22,
+        "name": "Mouse"
+    },
+    {
+        "id": 23,
+        "name": "Hedgehog"
+    },
+    {
+        "id": 24,
+        "name": "Chinchilla"
+    },
+    {
+        "id": 25,
+        "name": "Sugar Glider"
+    },
+    {
+        "id": 26,
+        "name": "Tarantula"
+    },
+    {
+        "id": 27,
+        "name": "Scorpion"
     }
-    
 ]
